@@ -1,0 +1,4 @@
+setuptools
+pyppeteer==1.0.2
+inflection==0.5.1
+multimethod==1.10
